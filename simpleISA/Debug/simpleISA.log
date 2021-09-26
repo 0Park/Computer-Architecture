@@ -1,0 +1,3 @@
+﻿  simpleISA.c
+C:\Users\박영훈\Source\Repos\simpleISA\simpleISA\simpleISA.c(9,7): warning C4101:  'buff' :참조되지 않은 지역 변수입니다.
+  simpleISA.vcxproj -> C:\Users\박영훈\Source\Repos\simpleISA\Debug\simpleISA.exe
